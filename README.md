@@ -7,7 +7,6 @@ A.K.A HOUSSAM ATICHE
 <h3 align="center">A Software Engineer Student jobs Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=houssam0f&label=Profile%20views&color=0e75b6&style=flat" alt="houssam0f" /> </p>
 
 <p align="left"> <a href="https://twitter.com/houssam_atiche" target="blank"><img src="https://img.shields.io/twitter/follow/houssam_atiche?logo=twitter&style=for-the-badge" alt="houssam_atiche" /></a> </p>
