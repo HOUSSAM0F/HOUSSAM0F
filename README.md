@@ -12,7 +12,7 @@ A.K.A HOUSSAM ATICHE
 
 <p align="left"> <a href="https://twitter.com/houssam_atiche" target="blank"><img src="https://img.shields.io/twitter/follow/houssam_atiche?logo=twitter&style=for-the-badge" alt="houssam_atiche" /></a> </p>
 
-- 🔭 I’m currently working on **0x01. Git**
+- 🔭 I’m currently working on **0x01. Git** **0x02. Emacx** **0x03. Vi**
 
 - 🌱 I’m currently learning **Shell Navigation**
 
