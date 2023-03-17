@@ -14,7 +14,7 @@ A.K.A HOUSSAM ATICHE
 
 - 🔭 I’m currently working on **0x01. Git** **0x02. Emacx** **0x03. Vi**
 
-- 🌱 I’m currently learning **Shell Navigation** AND **C**
+- 🌱 I’m currently learning **Shell Navigation** and **C language**
 
 - 📫 How to reach me **@HOUSSAM0F**
 
